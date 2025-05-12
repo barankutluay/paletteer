@@ -12,7 +12,7 @@ class App extends StatelessWidget {
       splitScreenMode: true,
       builder: (context, child) {
         return MaterialApp(
-          title: 'myproject',
+          title: 'paletteer',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(useMaterial3: true),
           home: const Scaffold(),

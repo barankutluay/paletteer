@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.barankutluay.myproject"
+    namespace = "com.barankutluay.paletteer"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "28.0.13004108"
 
@@ -20,7 +20,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.barankutluay.myproject"
+        applicationId = "com.barankutluay.paletteer"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

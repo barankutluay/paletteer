@@ -2,13 +2,13 @@
 //
 // This may be replaced with something auto-generated from metadata (e.g., pubspec.yaml) in the
 // future. If not, the values below would default to using the project name when this becomes a
-// 'flutter create' myproject.
+// 'flutter create' paletteer.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = myproject
+PRODUCT_NAME = paletteer
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.barankutluay.myproject
+PRODUCT_BUNDLE_IDENTIFIER = com.barankutluay.paletteer
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 Baran Kutluay. All rights reserved.

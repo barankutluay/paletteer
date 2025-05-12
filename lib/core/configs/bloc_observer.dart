@@ -1,5 +1,5 @@
 import 'package:bloc/bloc.dart';
-import 'package:myproject/core/utils/logger_util.dart';
+import 'package:paletteer/core/utils/logger_util.dart';
 
 class AppBlocObserver extends BlocObserver {
   const AppBlocObserver();
